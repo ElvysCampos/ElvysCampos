@@ -26,7 +26,10 @@
   <img align="center" alt="Ri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VSCODE" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="right" alt="Ri-pic" height="250" style="border-radius:50px"  src="https://static.wikia.nocookie.net/grandsummoners_gamepedia_en/images/f/f2/Rimuru_%28Sime-form%29_Full_Art.png/revision/latest?cb=20190218135839?width=676&height=976">
+  
+          
 </div>
 
 ##
